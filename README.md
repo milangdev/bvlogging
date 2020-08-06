@@ -1,2 +1,2 @@
 # bvlogging
-it's Nodejs app with all the funtionality
+it's Nodejs app with all the functionality
